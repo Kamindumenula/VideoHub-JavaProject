@@ -42,3 +42,37 @@ Follow these steps to run the project locally:
 
 5. **Deploy the project** on Tomcat and start the server. You should now be able to access the application by navigating to:
 http://localhost:8080/VideoHub/
+
+
+## Usage
+
+- **Register** as a new user to gain access to the application.
+- **Log in** to view and manage your video content through the user dashboard.
+- **Admin users** can log in using their credentials to access the admin dashboard where they can manage users and inquiries.
+
+## Contributors
+
+- **Akalanka** - Video CRUD
+- **Thenura** - User Registration, User Profile, Update/Delete User Details
+- **Bimalka** - Inquiry CRUD
+- **[Your GitHub Username]** - Login, Sessions, Admin Side, Home, and other functionalities
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Git Commands to Upload the Project
+
+```bash
+# Navigate to your project directory
+cd C:\Projects\Video Browsing System
+
+# Add the README.md file and any other changes to the staging area
+git add README.md
+
+# Commit the changes with a message
+git commit -m "Add README file"
+
+# Push the changes to your GitHub repository
+git push origin master
+
