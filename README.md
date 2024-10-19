@@ -26,6 +26,19 @@ Ensure that you have MySQL installed and create a database with the name `videoh
 
 Follow these steps to run the project locally:
 
-1. Clone the repository to your local machine using the command:
-   ```bash
-   git clone <>
+1. **Import the project into Eclipse IDE** as a **Dynamic Web Project**.
+
+2. **Add the external libraries** to the classpath:
+   - MySQL Connector JAR (`mysql-connector-java-8.0.x.jar`)
+   - Any other required libraries mentioned in the `lib` folder.
+
+3. **Configure Apache Tomcat 9.0** in Eclipse as the server for this project. Ensure that the port numbers match those used in your project (usually `8080`).
+
+4. **Update the database configuration** in your Java classes to ensure it matches your local MySQL server details:
+   - Host: `localhost`
+   - Port: `3306`
+   - Database Name: `videohub`
+   - Username and Password: *(update with your MySQL credentials)*
+
+5. **Deploy the project** on Tomcat and start the server. You should now be able to access the application by navigating to:
+http://localhost:8080/VideoHub/
