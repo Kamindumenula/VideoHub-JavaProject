@@ -1,0 +1,92 @@
+/* styles.css */
+
+/* Set the background to black and text to white */
+body {
+    background-color: #000; /* Black background */
+    color: #fff; /* White text for visibility */
+}
+
+
+/* Style for the input group */
+.input-group .form-control {
+    border-radius: 20px 0 0 20px;
+    height: 50px;
+    background-color: #333; /* Darker input field */
+    color: #fff; /* White text in input field */
+    border: 1px solid #555; /* Gray border */
+}
+
+.input-group-append .btn {
+    border-radius: 0 20px 20px 0;
+    height: 50px;
+    padding: 0 30px;
+    background-color: #444; /* Change to your desired color */
+    color: white; /* Button text color */
+}
+
+.input-group .form-control:focus {
+    box-shadow: 0 0 5px rgba(0, 123, 255, .5);
+    border-color: #007bff;
+}
+
+.input-group .form-control::placeholder {
+    color: #999; /* Placeholder text color */
+    opacity: 1; /* Firefox lowers the opacity of placeholder text */
+}
+
+.input-group-append .btn:hover {
+    background-color: #555; /* Darker shade on hover */
+}
+
+
+/* Styling for headings and links */
+h1, h5 {
+    color: #fff; /* White headings */
+}
+
+/* Update navbar styles */
+/* Navbar styling */
+.navbar {
+    background-color: #f8f9fa; /* Light gray background */
+}
+
+.navbar .nav-link {
+    color: #333; /* Dark text for links */
+}
+
+.navbar .nav-link:hover {
+    color: #007bff; /* Change link color on hover */
+}
+
+
+/* Optional: If you want the profile icon to stand out more */
+.navbar .dropdown-menu {
+    background-color: #f8f9fa; /* Match dropdown menu background */
+}
+
+.navbar .dropdown-item {
+    color: #333; /* Dark text for dropdown items */
+}
+
+.navbar .dropdown-item:hover {
+    background-color: #e2e6ea; /* Light hover effect for dropdown items */
+}
+.user-count {
+    color: black; /* Change font color to black */
+}
+.user-info{
+	color: black;
+	}
+
+
+.video-img {
+    width: 100%; /* Makes the image take up the full width of its container */
+    height: auto; /* Maintains the aspect ratio */
+    object-fit: cover; /* Ensures the image covers the container */
+    border-radius: 8px; /* Optional: adds rounded corners */
+}
+
+
+
+
+
