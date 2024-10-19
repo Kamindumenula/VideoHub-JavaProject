@@ -52,9 +52,9 @@ http://localhost:8080/VideoHub/
 
 ## Other Contributors 
 
-- **Akalanka** - Video CRUD
-- **Thenura** - User Registration, User Profile, Update/Delete User Details
-- **Bimalka** - Inquiry CRUD
+- **Akalanka Gunathilake** - Video CRUD
+- **Thenura Jayarathna** - User Registration, User Profile, Update/Delete User Details
+- **Bimalka Bandara** - Inquiry CRUD
 
 ## License
 
