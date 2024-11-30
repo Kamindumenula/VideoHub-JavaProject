@@ -50,14 +50,21 @@ http://localhost:8080/VideoHub/
 - **Log in** to view and manage your video content through the user dashboard.
 - **Admin users** can log in using their credentials to access the admin dashboard where they can manage users and inquiries.
 
-## Other Contributors 
+## Contributors
 
-- **Akalanka Gunathilake** - Video CRUD  
-  GitHub: [Akalanka Gunathilake](https://github.com/Akalankagunathilake2002)
-- **Thenura Jayarathna** - User Registration, User Profile, Update/Delete User Details
-  GitHub: [Thenura Jayarathna](https://github.com/Thenura68)
-- **Bimalka Bandara** - Inquiry CRUD
-  GitHub: [Bimalka Bandara]()
+- **Akalanka Gunathilake**  
+  - Contribution: Video CRUD  
+  - GitHub: [Akalanka Gunathilake](https://github.com/Akalankagunathilake2002)
+
+- **Thenura Jayarathna**  
+  - Contribution: User Registration, User Profile, Update/Delete User Details  
+  - GitHub: [Thenura Jayarathna](https://github.com/Thenura68)
+
+- **Bimalka Bandara**  
+  - Contribution: Inquiry CRUD  
+  - GitHub: *(GitHub handle not provided)*
+
+---
 
 ## License
 
