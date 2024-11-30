@@ -52,9 +52,12 @@ http://localhost:8080/VideoHub/
 
 ## Other Contributors 
 
-- **Akalanka Gunathilake** - Video CRUD
+- **Akalanka Gunathilake** - Video CRUD  
+  GitHub: [Akalanka Gunathilake](https://github.com/Akalankagunathilake2002)
 - **Thenura Jayarathna** - User Registration, User Profile, Update/Delete User Details
+  GitHub: [Thenura Jayarathna](https://github.com/Thenura68)
 - **Bimalka Bandara** - Inquiry CRUD
+  GitHub: [Bimalka Bandara]()
 
 ## License
 
