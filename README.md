@@ -62,7 +62,7 @@ http://localhost:8080/VideoHub/
 
 - **Bimalka Bandara**  
   - Contribution: Inquiry CRUD  
-  - GitHub: *(GitHub handle not provided)*
+  - GitHub: [Bimalka Bandara](https://github.com/bimalka99)
 
 ---
 
