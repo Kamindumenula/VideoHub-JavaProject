@@ -1,4 +1,4 @@
-# VideoHub
+# VideoHub 
 
 **VideoHub** is an online video browsing system built using Java, JSP, Servlets, MySQL, and Bootstrap. It allows users to register, log in, and manage their video content through various CRUD operations. The application also includes admin functionalities to manage users and inquiries.
 
@@ -18,11 +18,11 @@
 - **Database**: MySQL (MySQL Workbench 8.0 CE)
 - **Server**: Apache Tomcat 9.0
 
-## Database Configuration
+## Database Configurations
 
 Ensure that you have MySQL installed and create a database with the name `videohub`. Import the required SQL script provided with the project to set up the necessary tables and data.
 
-## Running the Project Locally
+## Running the Project Locally 
 
 Follow these steps to run the project locally:
 
@@ -53,7 +53,7 @@ http://localhost:8080/VideoHub/
 ## Contributors
 
 - **Akalanka Gunathilake**  
-  - Contribution: Video CRUD  
+  - Contribution: Video CRUD operation
   - GitHub: [Akalanka Gunathilake](https://github.com/Akalankagunathilake2002)
 
 - **Thenura Jayarathna**  
